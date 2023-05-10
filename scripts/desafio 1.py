@@ -1,6 +1,6 @@
 nome=input('Qual é o seu nome ?')
 
-print('Seu nome é ' + nome)
+print('Seja bem Vindo ' + nome)
 
 idade=input('Qual é a sua idade ?')
 
