@@ -1,4 +1,3 @@
-
 nome=input('Qual é o seu nome?')
 print('Olá' +  nome)
 idade=input('Qual a sua Idade?')
